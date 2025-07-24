@@ -122,8 +122,8 @@ FairAI uses a *microservices architecture* for scalability, deployed on AWS.
 ### Setup
 1. *Clone the Repository*:
    bash
-   git clone https://github.com/yourusername/fairai.git
-   cd fairai
+   git clone [https://github.com/yourusername/fairai.git](https://github.com/Alwende/fairai_governance)
+   cd fairai_governance
    
 
 2. *Backend Setup*:
@@ -285,14 +285,12 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and ensure tests pass.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For inquiries, contact:
-- *Project Lead*: [Your Name]
-- *Email*: [your.email@example.com]
-- *GitHub*: [yourusername](https://github.com/yourusername)
+- *Project Lead*: [Dan Alwende]
+- *Email*: [alwende8@gmail.com]
+- *GitHub*: [[yourusername](https://github.com/yourusername)](https://github.com/Alwende/fairai_governance)
 
 For investor inquiries, please request our pitch deck highlighting SDG alignment, scalability, and revenue potential.
 
